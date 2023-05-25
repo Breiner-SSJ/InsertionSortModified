@@ -1,0 +1,17 @@
+C:\Users\brein\source\repos\InsertionModified\InsertionModified\bin\Debug\net6.0-windows\InsertionModified.exe
+C:\Users\brein\source\repos\InsertionModified\InsertionModified\bin\Debug\net6.0-windows\InsertionModified.deps.json
+C:\Users\brein\source\repos\InsertionModified\InsertionModified\bin\Debug\net6.0-windows\InsertionModified.runtimeconfig.json
+C:\Users\brein\source\repos\InsertionModified\InsertionModified\bin\Debug\net6.0-windows\InsertionModified.dll
+C:\Users\brein\source\repos\InsertionModified\InsertionModified\bin\Debug\net6.0-windows\InsertionModified.pdb
+C:\Users\brein\source\repos\InsertionModified\InsertionModified\obj\Debug\net6.0-windows\InsertionModified.csproj.AssemblyReference.cache
+C:\Users\brein\source\repos\InsertionModified\InsertionModified\obj\Debug\net6.0-windows\InsertionModified.Insercion.resources
+C:\Users\brein\source\repos\InsertionModified\InsertionModified\obj\Debug\net6.0-windows\InsertionModified.csproj.GenerateResource.cache
+C:\Users\brein\source\repos\InsertionModified\InsertionModified\obj\Debug\net6.0-windows\InsertionModified.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brein\source\repos\InsertionModified\InsertionModified\obj\Debug\net6.0-windows\InsertionModified.AssemblyInfoInputs.cache
+C:\Users\brein\source\repos\InsertionModified\InsertionModified\obj\Debug\net6.0-windows\InsertionModified.AssemblyInfo.cs
+C:\Users\brein\source\repos\InsertionModified\InsertionModified\obj\Debug\net6.0-windows\InsertionModified.csproj.CoreCompileInputs.cache
+C:\Users\brein\source\repos\InsertionModified\InsertionModified\obj\Debug\net6.0-windows\InsertionModified.dll
+C:\Users\brein\source\repos\InsertionModified\InsertionModified\obj\Debug\net6.0-windows\refint\InsertionModified.dll
+C:\Users\brein\source\repos\InsertionModified\InsertionModified\obj\Debug\net6.0-windows\InsertionModified.pdb
+C:\Users\brein\source\repos\InsertionModified\InsertionModified\obj\Debug\net6.0-windows\InsertionModified.genruntimeconfig.cache
+C:\Users\brein\source\repos\InsertionModified\InsertionModified\obj\Debug\net6.0-windows\ref\InsertionModified.dll
